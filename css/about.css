@@ -1,0 +1,45 @@
+.page-transition {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.slide-up {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: all 0.8s ease-out;
+}
+
+.slide-right {
+    opacity: 0;
+    transform: translateX(-50px);
+    transition: all 0.8s ease-out;
+}
+
+.pop-in {
+    opacity: 0;
+    transform: scale(0.9);
+    transition: all 0.6s ease-out;
+}
+
+.fade-in {
+    opacity: 0;
+    transition: all 0.6s ease-out;
+}
+
+.scroll-reveal.visible {
+    opacity: 1;
+    transform: translateY(0) translateX(0) scale(1);
+}
+
+.delay-100 { transition-delay: 0.1s; }
+.delay-200 { transition-delay: 0.2s; }
+.delay-300 { transition-delay: 0.3s; }
+.delay-400 { transition-delay: 0.4s; }
+
+#globeContainer {
+    overflow: hidden;
+}

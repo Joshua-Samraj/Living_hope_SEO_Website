@@ -1,0 +1,861 @@
+text
+
+================================================================
+LIVING HOPE CHARITABLE TRUST - SEO TAGS FOR ALL PAGES
+Location: Rose Nagar, Melapalayam, Tirunelveli - 627005
+Website: https://living-hope-charitable-trust.vercel.app
+================================================================
+
+
+================================================================
+FILE: index.html (Home Page)
+================================================================
+
+<title>Living Hope Charitable Trust | NGO in Melapalayam, Tirunelveli | Empowering Lives Since 2020</title>
+<meta name="description" content="Living Hope Charitable Trust – Registered NGO at Rose Nagar, Melapalayam, Tirunelveli (627005). Supporting orphans, cancer patients, widows, elderly & rural education in South Tamil Nadu since 2020. Donate today." />
+<meta name="keywords" content="Living Hope Charitable Trust, NGO Melapalayam, NGO Tirunelveli, Charitable Trust Melapalayam, Trust Tirunelveli, Melapalayam NGO Tamil Nadu, donate Tirunelveli, orphan care Melapalayam, cancer support Tirunelveli, elderly care Tirunelveli, widow support Tamil Nadu, hunger relief Nellai, rural education Tirunelveli, humanitarian aid South Tamil Nadu, volunteer Melapalayam, charity Palayamkottai, Rose Nagar NGO, NGO 627005, Joseph Terance Sam, Lydia Sherin" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#1d4ed8" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/" />
+<meta property="og:title" content="Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Empowering orphans, cancer patients, elderly & communities in Melapalayam, Tirunelveli since 2020. Donate to make a difference." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli" />
+<meta name="twitter:description" content="Empowering lives in Melapalayam, Tirunelveli through education, cancer care & humanitarian aid since 2020." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NGO",
+  "name": "Living Hope Charitable Trust",
+  "alternateName": ["Living Hope Trust", "Living Hope NGO Tirunelveli"],
+  "url": "https://living-hope-charitable-trust.vercel.app/",
+  "logo": "https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511",
+  "image": "https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511",
+  "description": "A registered charitable trust founded in 2020 at Melapalayam, Tirunelveli, Tamil Nadu, dedicated to supporting orphans, cancer patients, widows, elderly, rural education, and vulnerable communities.",
+  "foundingDate": "2020",
+  "founder": { "@type": "Person", "name": "Joseph Terance Sam" },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rose Nagar, Melapalayam",
+    "addressLocality": "Tirunelveli",
+    "addressRegion": "Tamil Nadu",
+    "postalCode": "627005",
+    "addressCountry": "IN"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9500561937",
+    "contactType": "customer support",
+    "availableLanguage": ["English", "Tamil"]
+  },
+  "areaServed": ["Melapalayam", "Tirunelveli", "Palayamkottai", "Tamil Nadu", "India"],
+  "knowsAbout": ["Rural Education", "Cancer Patient Support", "Hunger Relief", "Elderly Care", "Orphan Care", "Disaster Relief", "Widow Support", "Awareness Programs"]
+}
+</script>
+
+
+================================================================
+FILE: about.html (About Us Page)
+================================================================
+
+<title>About Us | Living Hope Charitable Trust | NGO Founded in Melapalayam, Tirunelveli 2020</title>
+<meta name="description" content="Learn about Living Hope Charitable Trust, founded in 2020 by Joseph Terance Sam at Rose Nagar, Melapalayam, Tirunelveli. Our mission: empowering orphans, widows, cancer patients & rural communities in South Tamil Nadu." />
+<meta name="keywords" content="About Living Hope Trust, NGO Melapalayam Tirunelveli, Joseph Terance Sam NGO founder, Lydia Sherin chief secretary, charitable trust Melapalayam, NGO mission vision Tamil Nadu, orphan care NGO Tirunelveli, widow support Melapalayam, community development Tirunelveli, NGO founded 2020 Tamil Nadu" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#1d4ed8" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/about.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/about.html" />
+<meta property="og:title" content="About Us | Living Hope Charitable Trust | Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Founded in 2020 by Joseph Terance Sam at Melapalayam, Tirunelveli. Empowering destitutes, orphans, widows & communities through education and humanitarian aid." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="About Us | Living Hope Charitable Trust | Melapalayam, Tirunelveli" />
+<meta name="twitter:description" content="Founded in 2020 by Joseph Terance Sam at Melapalayam, Tirunelveli. Empowering orphans, widows & vulnerable communities." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/about.html",
+  "description": "About page of Living Hope Charitable Trust, a registered NGO in Melapalayam, Tirunelveli, Tamil Nadu, founded in 2020.",
+  "mainEntity": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust",
+    "foundingDate": "2020",
+    "founder": { "@type": "Person", "name": "Joseph Terance Sam" },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rose Nagar, Melapalayam",
+      "addressLocality": "Tirunelveli",
+      "addressRegion": "Tamil Nadu",
+      "postalCode": "627005",
+      "addressCountry": "IN"
+    }
+  }
+}
+</script>
+
+
+================================================================
+FILE: donation.html (Donate Page)
+================================================================
+
+<title>Donate | Living Hope Charitable Trust | Support NGO in Melapalayam, Tirunelveli</title>
+<meta name="description" content="Donate to Living Hope Charitable Trust, NGO at Melapalayam, Tirunelveli. Support cancer patients, orphans, elderly & rural education via UPI (lydiasherinss@okaxis) or Axis Bank transfer. Your donation transforms lives in South Tamil Nadu." />
+<meta name="keywords" content="donate Living Hope Trust, NGO donation Tirunelveli, charity donation Melapalayam, UPI donation NGO Tamil Nadu, donate cancer support Tirunelveli, fund orphan care Melapalayam, Axis Bank NGO donation, NEFT donation Tirunelveli NGO, online donation Tamil Nadu charity, support humanitarian aid Nellai" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#dc2626" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/donation.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/donation.html" />
+<meta property="og:title" content="Donate to Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Support orphans, cancer patients & communities in Melapalayam, Tirunelveli. Donate via UPI or bank transfer. Every rupee counts." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Donate | Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli" />
+<meta name="twitter:description" content="Help us empower communities in Melapalayam, Tirunelveli. Donate via UPI or bank transfer to Living Hope Charitable Trust." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DonateAction",
+  "name": "Donate to Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/donation.html",
+  "recipient": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rose Nagar, Melapalayam",
+      "addressLocality": "Tirunelveli",
+      "addressRegion": "Tamil Nadu",
+      "postalCode": "627005",
+      "addressCountry": "IN"
+    },
+    "telephone": "+91-9500561937"
+  }
+}
+</script>
+
+
+================================================================
+FILE: project.html (All Projects Page)
+================================================================
+
+<title>Our Projects | Living Hope Charitable Trust | NGO Initiatives in Tirunelveli, Tamil Nadu</title>
+<meta name="description" content="Explore all projects by Living Hope Charitable Trust, Melapalayam, Tirunelveli. Cancer care, orphan support, elderly care, hunger relief, rural education, disaster relief & awareness programs in South Tamil Nadu." />
+<meta name="keywords" content="Living Hope Trust projects, NGO projects Tirunelveli, charity projects Melapalayam, cancer care project Tamil Nadu, orphan support Tirunelveli, elderly care project Melapalayam, hunger relief project Nellai, rural education project Tamil Nadu, disaster relief Tirunelveli, awareness program NGO Melapalayam, holiday celebration orphans Tirunelveli" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/project.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/project.html" />
+<meta property="og:title" content="Our Projects | Living Hope Charitable Trust | Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Discover our impactful community programs: cancer care, orphan support, hunger relief, elderly care, education & disaster relief in Tirunelveli." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Our Projects | Living Hope Charitable Trust | Melapalayam, Tirunelveli" />
+<meta name="twitter:description" content="Browse all community development projects by Living Hope Charitable Trust in Tirunelveli, Tamil Nadu." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Projects – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/project.html",
+  "description": "All community development and humanitarian projects by Living Hope Charitable Trust, Melapalayam, Tirunelveli.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rose Nagar, Melapalayam",
+      "addressLocality": "Tirunelveli",
+      "addressRegion": "Tamil Nadu",
+      "postalCode": "627005",
+      "addressCountry": "IN"
+    }
+  }
+}
+</script>
+
+
+================================================================
+FILE: event.html (Events Calendar Page)
+================================================================
+
+<title>Events Calendar | Living Hope Charitable Trust | Upcoming NGO Events in Tirunelveli</title>
+<meta name="description" content="View upcoming events and project calendar of Living Hope Charitable Trust, Melapalayam, Tirunelveli. Stay updated on community drives, medical camps, food distribution & awareness programs in South Tamil Nadu." />
+<meta name="keywords" content="Living Hope Trust events, NGO events Tirunelveli, charity events Melapalayam, upcoming NGO events Tamil Nadu, community event Tirunelveli, medical camp Melapalayam, food distribution event Nellai, awareness program events Tirunelveli, NGO calendar 2025 Tamil Nadu, volunteer events Melapalayam" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#ea580c" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/event.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/event.html" />
+<meta property="og:title" content="Events Calendar | Living Hope Charitable Trust | Tirunelveli" />
+<meta property="og:description" content="Stay updated on upcoming events, community drives & programs by Living Hope Charitable Trust in Melapalayam, Tirunelveli." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Events Calendar | Living Hope Trust | Tirunelveli NGO" />
+<meta name="twitter:description" content="Upcoming events, community drives & humanitarian programs by Living Hope Charitable Trust, Melapalayam, Tirunelveli." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EventSeries",
+  "name": "Living Hope Charitable Trust – Events Calendar",
+  "url": "https://living-hope-charitable-trust.vercel.app/event.html",
+  "organizer": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rose Nagar, Melapalayam",
+      "addressLocality": "Tirunelveli",
+      "addressRegion": "Tamil Nadu",
+      "postalCode": "627005",
+      "addressCountry": "IN"
+    },
+    "telephone": "+91-9500561937"
+  }
+}
+</script>
+
+
+================================================================
+FILE: volunteer.html (Volunteer Page)
+================================================================
+
+<title>Volunteer | Living Hope Charitable Trust | Join Our NGO in Melapalayam, Tirunelveli</title>
+<meta name="description" content="Become a volunteer with Living Hope Charitable Trust, NGO at Rose Nagar, Melapalayam, Tirunelveli. Help us empower orphans, cancer patients & communities in South Tamil Nadu. Apply via WhatsApp today." />
+<meta name="keywords" content="volunteer Tirunelveli NGO, volunteer Melapalayam charity, join Living Hope Trust, NGO volunteer Tamil Nadu, volunteer opportunity Tirunelveli, social work volunteer Melapalayam, community service Tirunelveli, charity volunteer South Tamil Nadu, volunteer apply NGO 627005, become volunteer Living Hope" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#0d9488" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/volunteer.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/volunteer.html" />
+<meta property="og:title" content="Volunteer with Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Join our community of change makers at Melapalayam, Tirunelveli. Volunteer with Living Hope Trust to transform lives across South Tamil Nadu." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Volunteer | Living Hope Trust | NGO Melapalayam, Tirunelveli" />
+<meta name="twitter:description" content="Make a real difference. Volunteer with Living Hope Charitable Trust, Melapalayam, Tirunelveli. 500+ lives changed." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VolunteerAction",
+  "name": "Volunteer with Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/volunteer.html",
+  "agent": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust",
+    "telephone": "+91-9500561937",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rose Nagar, Melapalayam",
+      "addressLocality": "Tirunelveli",
+      "addressRegion": "Tamil Nadu",
+      "postalCode": "627005",
+      "addressCountry": "IN"
+    }
+  }
+}
+</script>
+
+
+================================================================
+FILE: gallery.html (Gallery Page)
+================================================================
+
+<title>Gallery | Living Hope Charitable Trust | NGO Impact Photos – Melapalayam, Tirunelveli</title>
+<meta name="description" content="View photos and memories from Living Hope Charitable Trust's field visits, medical camps, food distribution drives & community events across Melapalayam and Tirunelveli, Tamil Nadu." />
+<meta name="keywords" content="Living Hope Trust gallery, NGO photos Tirunelveli, charity events gallery Melapalayam, medical camp photos Tirunelveli, food distribution photos Nellai, orphan care photos Tamil Nadu, community event photos Melapalayam, NGO impact images Tirunelveli, Living Hope events gallery, volunteer photos Tamil Nadu NGO" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#4f46e5" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/gallery.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/gallery.html" />
+<meta property="og:title" content="Gallery | Living Hope Charitable Trust | Tirunelveli NGO Impact" />
+<meta property="og:description" content="See the real impact of Living Hope Charitable Trust through photos from our programs in Melapalayam, Tirunelveli and South Tamil Nadu." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Gallery | Living Hope Charitable Trust | Tirunelveli" />
+<meta name="twitter:description" content="Photos from our community events, medical camps & food drives across Melapalayam, Tirunelveli, Tamil Nadu." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageGallery",
+  "name": "Living Hope Charitable Trust – Photo Gallery",
+  "url": "https://living-hope-charitable-trust.vercel.app/gallery.html",
+  "description": "Photos from field visits, medical camps and community events of Living Hope Charitable Trust, Melapalayam, Tirunelveli.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+FILE: cancer.html (Cancer Care Projects Page)
+================================================================
+
+<title>Cancer Patient Support | Living Hope Charitable Trust | NGO Tirunelveli, Tamil Nadu</title>
+<meta name="description" content="Living Hope Charitable Trust provides cancer patient support in Tirunelveli and Melapalayam. We assist cancer patients with financial aid, medicines, and care in South Tamil Nadu. Join us or donate to help cancer families." />
+<meta name="keywords" content="cancer patient support Tirunelveli, cancer aid NGO Melapalayam, cancer charity Tamil Nadu, cancer care Tirunelveli NGO, cancer patient help Nellai, free cancer support South Tamil Nadu, NGO cancer assistance Tirunelveli, cancer patient donation Tamil Nadu, cancer rehabilitation Melapalayam, Living Hope cancer project" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/cancer.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/cancer.html" />
+<meta property="og:title" content="Cancer Patient Support | Living Hope Trust | Tirunelveli NGO" />
+<meta property="og:description" content="We support cancer patients in Tirunelveli and Melapalayam with financial aid and care. Donate to bring hope to cancer families in Tamil Nadu." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Cancer Support Projects | Living Hope Trust | Tirunelveli" />
+<meta name="twitter:description" content="Helping cancer patients in Melapalayam, Tirunelveli with financial aid and compassionate care since 2020." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Cancer Patient Support – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/cancer.html",
+  "description": "Cancer patient support projects by Living Hope Charitable Trust, Melapalayam, Tirunelveli, Tamil Nadu.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rose Nagar, Melapalayam",
+      "addressLocality": "Tirunelveli",
+      "addressRegion": "Tamil Nadu",
+      "postalCode": "627005",
+      "addressCountry": "IN"
+    }
+  }
+}
+</script>
+
+
+================================================================
+FILE: education.html (Rural Education Projects Page)
+================================================================
+
+<title>Rural Education Projects | Living Hope Charitable Trust | NGO Tirunelveli, Tamil Nadu</title>
+<meta name="description" content="Living Hope Charitable Trust supports rural education for underprivileged children in Tirunelveli and Melapalayam. Providing school supplies, scholarships & learning support to children in South Tamil Nadu since 2020." />
+<meta name="keywords" content="rural education NGO Tirunelveli, free education support Melapalayam, underprivileged children education Tamil Nadu, school support NGO Tirunelveli, scholarship NGO Melapalayam, children education charity Nellai, education project South Tamil Nadu, Living Hope education program, donate education Tamil Nadu NGO, kids learning support Tirunelveli" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/education.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/education.html" />
+<meta property="og:title" content="Rural Education Projects | Living Hope Trust | Tirunelveli NGO" />
+<meta property="og:description" content="Supporting underprivileged children's education in Melapalayam, Tirunelveli. Donate to help a child go to school in South Tamil Nadu." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Education Projects | Living Hope Trust | Tirunelveli" />
+<meta name="twitter:description" content="Empowering children through education in Melapalayam, Tirunelveli. Support our rural education drive in Tamil Nadu." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Rural Education Projects – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/education.html",
+  "description": "Rural education support projects for underprivileged children by Living Hope Charitable Trust, Melapalayam, Tirunelveli.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+FILE: hunger.html (Hunger Relief Projects Page)
+================================================================
+
+<title>Hunger Relief & Food Distribution | Living Hope Charitable Trust | NGO Tirunelveli</title>
+<meta name="description" content="Living Hope Charitable Trust runs hunger relief and food distribution programs in Tirunelveli and Melapalayam, Tamil Nadu. We provide meals to the needy, orphans & elderly in South Tamil Nadu. Donate to feed a family today." />
+<meta name="keywords" content="hunger relief NGO Tirunelveli, food distribution Melapalayam, free food NGO Tamil Nadu, feed the poor Tirunelveli, food donation NGO Melapalayam, hunger project Nellai, meal distribution South Tamil Nadu, free food distribution Tirunelveli, donate food Tamil Nadu NGO, Living Hope hunger project Melapalayam" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/hunger.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/hunger.html" />
+<meta property="og:title" content="Hunger Relief Projects | Living Hope Trust | Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Feeding the needy in Melapalayam, Tirunelveli. Living Hope Charitable Trust runs food distribution drives across South Tamil Nadu. Donate to help." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Hunger Relief | Living Hope Trust | Tirunelveli NGO" />
+<meta name="twitter:description" content="Food distribution and hunger relief projects by Living Hope Charitable Trust, Melapalayam, Tirunelveli, Tamil Nadu." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Hunger Relief Projects – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/hunger.html",
+  "description": "Hunger relief and food distribution programs by Living Hope Charitable Trust, Melapalayam, Tirunelveli, Tamil Nadu.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+FILE: elderly.html (Elderly Care Projects Page)
+================================================================
+
+<title>Elderly Care Projects | Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli</title>
+<meta name="description" content="Living Hope Charitable Trust provides elderly care and support to senior citizens in Melapalayam, Tirunelveli and South Tamil Nadu. We care for abandoned elders with dignity and compassion. Donate to support our elderly care mission." />
+<meta name="keywords" content="elderly care NGO Tirunelveli, old age support Melapalayam, senior citizen care Tamil Nadu, abandoned elderly Tirunelveli NGO, elder support program Melapalayam, old age charity Nellai, elderly welfare South Tamil Nadu, destitute elderly care Tirunelveli, Living Hope elderly project, donate elderly care Tamil Nadu" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/elderly.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/elderly.html" />
+<meta property="og:title" content="Elderly Care Projects | Living Hope Trust | Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Caring for abandoned and vulnerable senior citizens in Melapalayam, Tirunelveli with dignity. Donate to support Living Hope elderly care programs." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Elderly Care | Living Hope Trust | Tirunelveli NGO" />
+<meta name="twitter:description" content="Supporting abandoned senior citizens in Melapalayam, Tirunelveli with dignity and compassionate care since 2020." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Elderly Care Projects – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/elderly.html",
+  "description": "Elderly care and support programs for senior citizens by Living Hope Charitable Trust, Melapalayam, Tirunelveli.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+FILE: disaster.html (Disaster Relief Projects Page)
+================================================================
+
+<title>Disaster Relief Projects | Living Hope Charitable Trust | NGO Tirunelveli, Tamil Nadu</title>
+<meta name="description" content="Living Hope Charitable Trust provides disaster relief and emergency aid to flood and cyclone victims in Tirunelveli, Melapalayam and South Tamil Nadu. Donate to support disaster-affected families in Tamil Nadu." />
+<meta name="keywords" content="disaster relief NGO Tirunelveli, flood relief Melapalayam, emergency aid Tamil Nadu NGO, cyclone relief Tirunelveli, disaster response South Tamil Nadu, relief camp Melapalayam, flood victim support Nellai, natural disaster charity Tamil Nadu, Living Hope disaster project, donate disaster relief Tirunelveli" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/disaster.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/disaster.html" />
+<meta property="og:title" content="Disaster Relief Projects | Living Hope Trust | Tirunelveli NGO" />
+<meta property="og:description" content="Emergency relief and disaster response for affected families in Tirunelveli and South Tamil Nadu by Living Hope Charitable Trust." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Disaster Relief | Living Hope Trust | Tirunelveli" />
+<meta name="twitter:description" content="Providing emergency relief to disaster-affected families in Melapalayam, Tirunelveli and South Tamil Nadu since 2020." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Disaster Relief Projects – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/disaster.html",
+  "description": "Disaster relief and emergency aid programs by Living Hope Charitable Trust, Melapalayam, Tirunelveli, Tamil Nadu.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+FILE: Awareness.html (Awareness Programs Page)
+================================================================
+
+<title>Awareness Programs | Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli</title>
+<meta name="description" content="Living Hope Charitable Trust conducts health, social and cancer awareness programs in Melapalayam, Tirunelveli and South Tamil Nadu. Join our awareness drives to create a better, informed community in Tamil Nadu." />
+<meta name="keywords" content="awareness program NGO Tirunelveli, health awareness Melapalayam, cancer awareness Tamil Nadu, social awareness NGO Tirunelveli, community awareness Melapalayam, awareness camp South Tamil Nadu, awareness drive Nellai, NGO awareness 2025 Tamil Nadu, Living Hope awareness project, women awareness program Tirunelveli" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/Awareness.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/Awareness.html" />
+<meta property="og:title" content="Awareness Programs | Living Hope Trust | Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Health and social awareness campaigns by Living Hope Charitable Trust in Melapalayam, Tirunelveli, Tamil Nadu. Building a better-informed community." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Awareness Programs | Living Hope Trust | Tirunelveli" />
+<meta name="twitter:description" content="Health and social awareness drives by Living Hope Charitable Trust across Melapalayam and Tirunelveli, Tamil Nadu." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Awareness Programs – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/Awareness.html",
+  "description": "Health and social awareness programs by Living Hope Charitable Trust, Melapalayam, Tirunelveli, Tamil Nadu.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+FILE: holiday.html (Holiday Celebrations Page)
+================================================================
+
+<title>Holiday Celebrations for Orphans | Living Hope Charitable Trust | NGO Tirunelveli</title>
+<meta name="description" content="Living Hope Charitable Trust celebrates Christmas, Diwali and special holidays with orphans and underprivileged children in Melapalayam, Tirunelveli, Tamil Nadu. Bringing joy and smiles to those who need it most." />
+<meta name="keywords" content="holiday celebration orphans Tirunelveli, Christmas orphans NGO Melapalayam, Diwali celebration underprivileged children Tamil Nadu, festival celebration orphan NGO Tirunelveli, Living Hope holiday project, Christmas celebration Melapalayam NGO, children holiday event Tirunelveli, orphan festival Tamil Nadu, celebrate with children NGO, joy for orphans South Tamil Nadu" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/holiday.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/holiday.html" />
+<meta property="og:title" content="Holiday Celebrations for Orphans | Living Hope Trust | Tirunelveli" />
+<meta property="og:description" content="Bringing festival joy to orphans and underprivileged children in Melapalayam, Tirunelveli. Celebrate with us or donate to spread smiles." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Holiday Celebrations | Living Hope Trust | Tirunelveli" />
+<meta name="twitter:description" content="Celebrating festivals with orphans and underprivileged children in Melapalayam, Tirunelveli, Tamil Nadu." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Holiday Celebrations – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/holiday.html",
+  "description": "Festival and holiday celebration programs for orphans and underprivileged children by Living Hope Charitable Trust, Melapalayam, Tirunelveli.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+FILE: upcoming.html (Upcoming Projects Page)
+================================================================
+
+<title>Upcoming Projects | Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli</title>
+<meta name="description" content="Explore upcoming projects and initiatives by Living Hope Charitable Trust, Melapalayam, Tirunelveli. Stay ahead of our planned programs for orphan care, cancer support, education & disaster relief in South Tamil Nadu." />
+<meta name="keywords" content="upcoming NGO projects Tirunelveli, upcoming charity programs Melapalayam, future projects Living Hope Trust, planned projects NGO Tamil Nadu, upcoming humanitarian aid Tirunelveli, new project NGO Melapalayam, upcoming events South Tamil Nadu NGO, future charity work Tirunelveli, upcoming volunteer drive Melapalayam, Living Hope upcoming 2025" />
+<meta name="author" content="Living Hope Charitable Trust, Melapalayam, Tirunelveli" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="theme-color" content="#7c3aed" />
+<link rel="canonical" href="https://living-hope-charitable-trust.vercel.app/upcoming.html" />
+
+<!-- GEO / LOCAL SEO -->
+<meta name="geo.region" content="IN-TN" />
+<meta name="geo.placename" content="Melapalayam, Tirunelveli, Tamil Nadu, India" />
+<meta name="geo.position" content="8.6968;77.7351" />
+<meta name="ICBM" content="8.6968, 77.7351" />
+
+<!-- OPEN GRAPH -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/upcoming.html" />
+<meta property="og:title" content="Upcoming Projects | Living Hope Trust | Melapalayam, Tirunelveli" />
+<meta property="og:description" content="Discover what's next for Living Hope Charitable Trust in Melapalayam, Tirunelveli. Upcoming programs for communities across South Tamil Nadu." />
+<meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="Living Hope Charitable Trust" />
+<meta property="og:locale" content="en_IN" />
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Upcoming Projects | Living Hope Trust | Tirunelveli" />
+<meta name="twitter:description" content="Planned and upcoming community programs by Living Hope Charitable Trust, Melapalayam, Tirunelveli, Tamil Nadu." />
+<meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/OUR_PROJECT.jpg?updatedAt=1754154501719" />
+
+<!-- SCHEMA.ORG STRUCTURED DATA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Upcoming Projects – Living Hope Charitable Trust",
+  "url": "https://living-hope-charitable-trust.vercel.app/upcoming.html",
+  "description": "Upcoming humanitarian and community development projects by Living Hope Charitable Trust, Melapalayam, Tirunelveli, Tamil Nadu.",
+  "publisher": {
+    "@type": "NGO",
+    "name": "Living Hope Charitable Trust"
+  }
+}
+</script>
+
+
+================================================================
+HOW TO USE THESE SEO TAGS
+================================================================
+
+For each page, replace ONLY the existing <head> meta content
+(title, description, keywords, og:, twitter:, and script ld+json)
+with the corresponding block above.
+
+Keep your existing:
+  - <meta charset="UTF-8">
+  - <meta name="viewport" ...>
+  - <script src="https://cdn.tailwindcss.com">
+  - <link rel="stylesheet" ...> (your CSS files)
+  - <script src="https://unpkg.com/lucide@latest">
+
+Place the SEO tags BETWEEN the viewport meta and your CSS links.
+
+================================================================
+END OF FILE
+================================================================

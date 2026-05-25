@@ -1,0 +1,32 @@
+/* 1. Improved Scroll Reveal - Uses a 'springier' ease-out */
+.scroll-reveal { 
+    opacity: 0; 
+    transform: translateY(30px); 
+    transition: all 0.8s cubic-bezier(0.22, 1, 0.36, 1); 
+}
+.scroll-reveal.visible { 
+    opacity: 1; 
+    transform: translateY(0); 
+}
+
+/* 2. Modal Transition */
+.modal-transition { 
+    transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1); 
+}
+
+/* 3. Smooth Max-Height Expansion */
+.collapsible-content {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1), 
+                opacity 0.4s ease-in-out;
+}
+
+.collapsible-content.expanded {
+    max-height: 600px; /* High enough to contain content */
+    opacity: 1;
+}
+
+/* Hide scrollbar helper */
+.hide-scrollbar::-webkit-scrollbar { display: none; }

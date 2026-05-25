@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Gallery | Living Hope Charitable Trust | Project Photos & Impact</title>
+    <meta name="description" content="View our gallery showcasing the impact of Living Hope Charitable Trust. Photos from medical camps, educational programs, flood relief, and community initiatives.">
+    <meta name="keywords" content="Gallery, Photo Gallery, Project Photos, Community Work, Humanitarian Aid, Medical Camp, Education Program">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/gallery.html">
+    <meta property="og:title" content="Gallery | Living Hope Charitable Trust">
+    <meta property="og:description" content="Explore photos from our community projects and humanitarian initiatives.">
+    <meta property="og:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Gallery | Living Hope Charitable Trust">
+    <meta name="twitter:description" content="See the impact of our charitable programs in real photos">
+    <meta name="twitter:image" content="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        /* Custom Animations */
+        @keyframes shimmer {
+            0% { background-position: -1000px 0; }
+            100% { background-position: 1000px 0; }
+        }
+        .animate-shimmer {
+            animation: shimmer 2s infinite linear;
+            background: linear-gradient(to right, #f6f7f8 4%, #edeef1 25%, #f6f7f8 36%);
+            background-size: 1000px 100%;
+        }
+        .fade-in {
+            animation: fadeIn 0.4s ease-out forwards;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: scale(0.95); }
+            to { opacity: 1; transform: scale(1); }
+        }
+        .image-card-hover:hover .image-overlay {
+            opacity: 1;
+        }
+        .image-card-hover:hover .image-title {
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+
+    <nav id="navbar" class="fixed top-0 w-full z-50 transition-all duration-300 ease-in-out bg-white/95 backdrop-blur-md shadow-lg text-black">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-20 transition-all duration-300">
+                <a href="/" class="flex items-center space-x-2">
+                    <img id="navLogo" src="https://ik.imagekit.io/vc42cyymbb/logo.png?updatedAt=1754075020511" alt="Living Hope Logo" class="h-20 w-15 transition-all duration-300" />
+                </a>
+
+                <div class="hidden lg:block">
+                    <div class="ml-10 flex items-baseline space-x-2 xl:space-x-4">
+                        <a href="/" class="px-3 py-2 rounded-md text-sm font-bold transition-all duration-300 nav-link text-black hover:bg-blue-100 hover:text-blue-700">Home</a>
+                        <a href="about.html" class="px-3 py-2 rounded-md text-sm font-bold transition-all duration-300 nav-link text-black hover:bg-emerald-100 hover:text-emerald-700">About</a>
+                        <a href="project.html" class="px-3 py-2 rounded-md text-sm font-bold transition-all duration-300 nav-link text-black hover:bg-purple-100 hover:text-purple-700">Projects</a>
+                        <a href="event.html" class="px-3 py-2 rounded-md text-sm font-bold transition-all duration-300 nav-link text-black hover:bg-orange-100 hover:text-orange-700">Event Calendar</a>
+                        <a href="donation.html" class="px-3 py-2 rounded-md text-sm font-bold transition-all duration-300 nav-link text-black hover:bg-rose-100 hover:text-rose-700">Donate</a>
+                        <a href="volunteer.html" class="px-3 py-2 rounded-md text-sm font-bold transition-all duration-300 nav-link text-black hover:bg-teal-100 hover:text-teal-700">Volunteer</a>
+                        
+                        <a href="gallery.html" class="px-3 py-2 rounded-md text-sm font-bold transition-all duration-300 bg-indigo-600 text-white shadow-md transform scale-105">Gallery</a>
+                    </div>
+                </div>
+
+                <div class="lg:hidden">
+                    <button id="mobileMenuBtn" class="inline-flex items-center justify-center p-2 rounded-md transition-colors text-black hover:bg-black/5">
+                        <i data-lucide="menu" id="menuIcon" class="h-6 w-6"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div id="mobileMenu" class="lg:hidden overflow-hidden transition-all duration-500 bg-indigo-50" style="height: 0px; opacity: 0; pointer-events: none;">
+            <div class="px-4 pt-2 pb-4 space-y-2 shadow-inner border-t border-white/10">
+                <a href="/" class="block px-4 py-3 rounded-xl text-base font-semibold transition-all duration-300 text-black hover:bg-blue-100 hover:text-blue-700">Home</a>
+                <a href="about.html" class="block px-4 py-3 rounded-xl text-base font-semibold transition-all duration-300 text-black hover:bg-emerald-100 hover:text-emerald-700">About</a>
+                <a href="project.html" class="block px-4 py-3 rounded-xl text-base font-semibold transition-all duration-300 text-black hover:bg-purple-100 hover:text-purple-700">Projects</a>
+                <a href="event.html" class="block px-4 py-3 rounded-xl text-base font-semibold transition-all duration-300 text-black hover:bg-orange-100 hover:text-orange-700">Event Calendar</a>
+                <a href="donation.html" class="block px-4 py-3 rounded-xl text-base font-semibold transition-all duration-300 text-black hover:bg-rose-100 hover:text-rose-700">Donate</a>
+                <a href="volunteer.html" class="block px-4 py-3 rounded-xl text-base font-semibold transition-all duration-300 text-black hover:bg-teal-100 hover:text-teal-700">Volunteer</a>
+                <a href="gallery.html" class="block px-4 py-3 rounded-xl text-base font-semibold transition-all duration-300 bg-indigo-600 text-white shadow-md">Gallery</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="pt-24 pb-12 px-6 max-w-7xl mx-auto min-h-screen">
+        <h1 class="text-3xl font-bold text-center mb-8 text-gray-900 fade-in" style="animation-delay: 0.1s;">
+            Trust Activity Gallery
+        </h1>
+
+        <div class="block md:hidden mb-8 relative z-30" id="mobileCategoryContainer">
+            <button id="categoryDropdownBtn" class="w-full bg-white border border-gray-200 p-4 rounded-xl shadow-sm flex justify-between items-center transition-shadow hover:shadow-md">
+                <span id="selectedCategoryText" class="font-semibold text-gray-800">All</span>
+                <i data-lucide="chevron-down" id="dropdownIcon" class="w-5 h-5 text-gray-500 transition-transform duration-300"></i>
+            </button>
+            <div id="categoryDropdownMenu" class="absolute top-full left-0 right-0 mt-2 bg-white border border-gray-100 rounded-xl shadow-xl overflow-hidden origin-top opacity-0 scale-95 pointer-events-none transition-all duration-200 z-50">
+                </div>
+        </div>
+
+        <div id="desktopCategoryTabs" class="hidden md:flex flex-wrap gap-3 mb-10 justify-center">
+            </div>
+
+        <div id="imageGrid" class="grid gap-4 sm:gap-6 grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 relative z-10">
+            </div>
+
+        <div id="loadMoreContainer" class="mt-12 flex justify-center hidden">
+            <button id="loadMoreBtn" class="px-8 py-3 bg-white border border-gray-300 text-gray-700 font-semibold rounded-full shadow-sm hover:shadow-md transition-all active:scale-95">
+                Load More Images
+            </button>
+        </div>
+    </main>
+
+    <div id="lightbox" class="fixed inset-0 z-[100] bg-black/95 backdrop-blur-sm opacity-0 pointer-events-none transition-opacity duration-300 flex items-center justify-center hidden">
+        
+        <div class="absolute top-0 left-0 right-0 p-4 flex justify-between items-center bg-gradient-to-b from-black/70 to-transparent z-50">
+            <p id="lightboxTitle" class="text-white font-medium text-lg drop-shadow-md truncate pr-4"></p>
+            <button id="lightboxClose" class="text-white/80 hover:text-white p-2 bg-white/10 hover:bg-white/20 rounded-full backdrop-blur-md transition-all">
+                <i data-lucide="x" class="w-6 h-6"></i>
+            </button>
+        </div>
+
+        <button id="lightboxPrev" class="absolute left-4 top-1/2 -translate-y-1/2 text-white/80 hover:text-white p-3 bg-white/10 hover:bg-white/20 rounded-full backdrop-blur-md transition-all z-50">
+            <i data-lucide="chevron-left" class="w-8 h-8"></i>
+        </button>
+
+        <div class="relative w-full h-full p-4 md:p-12 flex items-center justify-center">
+            <img id="lightboxImg" src="" alt="Gallery Image" class="max-h-full max-w-full object-contain drop-shadow-2xl transition-transform duration-300" />
+        </div>
+
+        <button id="lightboxNext" class="absolute right-4 top-1/2 -translate-y-1/2 text-white/80 hover:text-white p-3 bg-white/10 hover:bg-white/20 rounded-full backdrop-blur-md transition-all z-50">
+            <i data-lucide="chevron-right" class="w-8 h-8"></i>
+        </button>
+    </div>
+
+    <script>
+        // Initialize Lucide Icons
+        lucide.createIcons();
+
+        // Navbar Mobile Menu Toggle
+        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+        let isMenuOpen = false;
+
+        mobileMenuBtn.addEventListener('click', () => {
+            isMenuOpen = !isMenuOpen;
+            if (isMenuOpen) {
+                mobileMenu.style.height = mobileMenu.scrollHeight + 'px';
+                mobileMenu.style.opacity = '1';
+                mobileMenu.style.pointerEvents = 'auto';
+            } else {
+                mobileMenu.style.height = '0px';
+                mobileMenu.style.opacity = '0';
+                mobileMenu.style.pointerEvents = 'none';
+            }
+        });
+
+        // --- GALLERY DATA & STATE ---
+        let galleryImages = []; // Will be populated by fetch
+        let categories = ['All']; // Will be populated dynamically
+
+        const IMAGES_PER_PAGE = 10;
+        let selectedCategory = 'All';
+        let visibleCount = IMAGES_PER_PAGE;
+        let filteredImages = [];
+        let currentLightboxIndex = null;
+        let isDropdownOpen = false;
+
+        // Elements
+        const imageGrid = document.getElementById('imageGrid');
+        const loadMoreContainer = document.getElementById('loadMoreContainer');
+        const loadMoreBtn = document.getElementById('loadMoreBtn');
+        const desktopCategoryTabs = document.getElementById('desktopCategoryTabs');
+        const categoryDropdownMenu = document.getElementById('categoryDropdownMenu');
+        const selectedCategoryText = document.getElementById('selectedCategoryText');
+        const categoryDropdownBtn = document.getElementById('categoryDropdownBtn');
+        const dropdownIcon = document.getElementById('dropdownIcon');
+
+        // Show Initial Loading Skeletons while fetching
+        function showSkeletons() {
+            imageGrid.innerHTML = Array.from({ length: 10 }).map(() => `
+                <div class="w-full aspect-square bg-gray-200 rounded-xl overflow-hidden relative fade-in">
+                    <div class="absolute inset-0 animate-shimmer"></div>
+                </div>
+            `).join('');
+            loadMoreContainer.classList.add('hidden');
+        }
+
+        // --- FETCH JSON DATA ---
+        async function fetchGalleryData() {
+            showSkeletons();
+            
+            try {
+                // Fetch data from local json file
+                const response = await fetch('data/galleryData.json');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                galleryImages = await response.json();
+                
+                // Extract unique categories based on the fetched data
+                categories = ['All', ...new Set(galleryImages.map(img => img.category))];
+                
+                // Initialize UI with fetched data
+                initGallery();
+                
+            } catch (error) {
+                console.error("Failed to fetch gallery data:", error);
+                imageGrid.innerHTML = `
+                    <div class="col-span-full py-12 text-center text-red-500">
+                        <i data-lucide="alert-circle" class="w-12 h-12 mx-auto mb-3 opacity-50"></i>
+                        <p class="font-medium text-lg">Failed to load gallery images.</p>
+                        <p class="text-sm opacity-70">Please check your connection and try again.</p>
+                    </div>
+                `;
+                lucide.createIcons(); // Re-init icons for the error state
+            }
+        }
+
+        // --- INITIALIZATION ---
+        function initGallery() {
+            renderCategories();
+            updateGallery();
+        }
+
+        // Render Tabs and Mobile Dropdown
+        function renderCategories() {
+            // Desktop Tabs
+            desktopCategoryTabs.innerHTML = categories.map(cat => `
+                <button onclick="handleCategoryChange('${cat}')" 
+                    class="px-5 py-2.5 rounded-full border text-sm font-medium transition-all ${
+                        selectedCategory === cat 
+                        ? 'bg-red-600 border-red-600 text-white shadow-md' 
+                        : 'bg-white border-gray-200 text-gray-600 hover:bg-gray-50'
+                    }">
+                    ${cat}
+                </button>
+            `).join('');
+
+            // Mobile Dropdown Menu
+            categoryDropdownMenu.innerHTML = categories.map(cat => `
+                <button onclick="handleCategoryChange('${cat}')" class="w-full text-left px-5 py-3 text-sm hover:bg-gray-50 text-gray-700 border-b border-gray-50 last:border-0">
+                    ${cat}
+                </button>
+            `).join('');
+            selectedCategoryText.innerText = selectedCategory;
+        }
+
+        // Handle Category Change
+        window.handleCategoryChange = (category) => {
+            selectedCategory = category;
+            visibleCount = IMAGES_PER_PAGE;
+            closeDropdown();
+            renderCategories(); // Re-render to update active states
+            updateGallery();
+        };
+
+        // Update Gallery (Filters, Pagination, Skeletons)
+        function updateGallery() {
+            showSkeletons();
+
+            // Process data
+            filteredImages = selectedCategory === 'All' 
+                ? galleryImages 
+                : galleryImages.filter(img => img.category === selectedCategory);
+
+            const visibleImages = filteredImages.slice(0, visibleCount);
+
+            // Simulate slight rendering delay for smooth skeleton transition
+            setTimeout(() => {
+                renderImages(visibleImages);
+                
+                // Show/hide load more
+                if (visibleCount < filteredImages.length) {
+                    loadMoreContainer.classList.remove('hidden');
+                }
+            }, 400);
+        }
+
+        // Render Image Cards
+        function renderImages(images) {
+            if (images.length === 0) {
+                imageGrid.innerHTML = `
+                    <div class="col-span-full py-12 text-center text-gray-500">
+                        <p class="font-medium">No images found for this category.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            imageGrid.innerHTML = images.map((img, index) => `
+                <button onclick="openLightbox(${index})" class="fade-in focus:outline-none w-full aspect-square relative group overflow-hidden rounded-xl shadow-sm hover:shadow-xl transition-all duration-300 hover:scale-[1.02] bg-white image-card-hover">
+                    <img src="${img.url}" alt="${img.title}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" loading="lazy" />
+                    
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 transition-opacity duration-300 image-overlay"></div>
+                    
+                    <div class="absolute bottom-8 left-0 right-0 p-4 translate-y-6 transition-transform duration-300 image-title">
+                        <p class="text-white/70 text-xs mt-1 uppercase tracking-wider font-semibold">${img.category}</p>
+                    </div>
+                </button>
+            `).join('');
+        }
+
+        // Load More Handler
+        loadMoreBtn.addEventListener('click', () => {
+            visibleCount += IMAGES_PER_PAGE;
+            updateGallery();
+        });
+
+        // --- MOBILE DROPDOWN LOGIC ---
+        categoryDropdownBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            isDropdownOpen = !isDropdownOpen;
+            if(isDropdownOpen) {
+                categoryDropdownMenu.classList.remove('opacity-0', 'scale-95', 'pointer-events-none');
+                dropdownIcon.classList.add('rotate-180');
+            } else {
+                closeDropdown();
+            }
+        });
+
+        function closeDropdown() {
+            isDropdownOpen = false;
+            categoryDropdownMenu.classList.add('opacity-0', 'scale-95', 'pointer-events-none');
+            dropdownIcon.classList.remove('rotate-180');
+        }
+
+        document.addEventListener('click', (e) => {
+            const container = document.getElementById('mobileCategoryContainer');
+            if (container && !container.contains(e.target) && isDropdownOpen) {
+                closeDropdown();
+            }
+        });
+
+        // --- LIGHTBOX LOGIC ---
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = document.getElementById('lightboxImg');
+        const lightboxTitle = document.getElementById('lightboxTitle');
+
+        window.openLightbox = (index) => {
+            currentLightboxIndex = index;
+            updateLightboxContent();
+            lightbox.classList.remove('hidden');
+            // Small timeout to allow display:block to apply before transition
+            setTimeout(() => {
+                lightbox.classList.remove('opacity-0', 'pointer-events-none');
+            }, 10);
+            document.body.style.overflow = 'hidden'; // Prevent scrolling
+        };
+
+        function closeLightbox() {
+            lightbox.classList.add('opacity-0', 'pointer-events-none');
+            setTimeout(() => {
+                lightbox.classList.add('hidden');
+                currentLightboxIndex = null;
+                document.body.style.overflow = '';
+            }, 300);
+        }
+
+        function updateLightboxContent() {
+            if (currentLightboxIndex === null) return;
+            const img = filteredImages[currentLightboxIndex];
+            lightboxImg.src = img.url;
+            lightboxImg.alt = img.title;
+            lightboxTitle.innerText = img.title;
+        }
+
+        function nextImage() {
+            if (currentLightboxIndex === null) return;
+            currentLightboxIndex = (currentLightboxIndex + 1) % filteredImages.length;
+            updateLightboxContent();
+        }
+
+        function prevImage() {
+            if (currentLightboxIndex === null) return;
+            currentLightboxIndex = (currentLightboxIndex - 1 + filteredImages.length) % filteredImages.length;
+            updateLightboxContent();
+        }
+
+        // Lightbox Event Listeners
+        document.getElementById('lightboxClose').addEventListener('click', closeLightbox);
+        document.getElementById('lightboxNext').addEventListener('click', nextImage);
+        document.getElementById('lightboxPrev').addEventListener('click', prevImage);
+        
+        // Close on background click
+        lightbox.addEventListener('click', (e) => {
+            if (e.target === lightbox) closeLightbox();
+        });
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (lightbox.classList.contains('hidden')) return;
+            if (e.key === 'Escape') closeLightbox();
+            if (e.key === 'ArrowRight') nextImage();
+            if (e.key === 'ArrowLeft') prevImage();
+        });
+
+        // Kick off the data fetch when DOM is ready
+        document.addEventListener('DOMContentLoaded', fetchGalleryData);
+
+    </script>
+</body>
+</html>
