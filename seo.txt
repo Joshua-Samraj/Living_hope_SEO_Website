@@ -25,7 +25,7 @@ FILE: index.html (Home Page)
 <meta name="geo.position" content="8.6968;77.7351" />
 <meta name="ICBM" content="8.6968, 77.7351" />
 
-<!-- OPEN GRAPH -->
+<!-- OPENGRAPH  -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://living-hope-charitable-trust.vercel.app/" />
 <meta property="og:title" content="Living Hope Charitable Trust | NGO Melapalayam, Tirunelveli" />
